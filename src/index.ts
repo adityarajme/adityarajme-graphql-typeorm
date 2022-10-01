@@ -9,7 +9,7 @@ const main = async() => {
         user: process.env.DB_USER,
         password: process.env.DB_PASS
     });
-    console.log("hello world2");
+    console.log("hello world2 ");
 }
 
 main();
